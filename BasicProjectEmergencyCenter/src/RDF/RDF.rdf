@@ -1,0 +1,39 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#"> 
+	<rdf:Description rdf:about="http://www.persons.com/John1/">
+	<vcard:Given>John</vcard:Given>
+	<vcard:Family>Doe</vcard:Family>
+	<vcard:Bday>1997.10</vcard:Bday>
+	<vcard:Country>Romania</vcard:Country>
+	<vcard:EMAIL>asa@yahoo.com</vcard:EMAIL>
+	<vcard:Region>Bucuresti</vcard:Region>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.persons.com/Jane/">
+	<vcard:Given>Jane</vcard:Given>
+	<vcard:Family>Doe</vcard:Family>
+	<vcard:Bday>1996.09</vcard:Bday>
+	<vcard:Country>Romania</vcard:Country>
+	<vcard:EMAIL>asa2@yahoo.com</vcard:EMAIL>
+	<vcard:Region>Olt</vcard:Region>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.persons.com/John/">
+	<vcard:Given>John</vcard:Given>
+	<vcard:Family>Snow</vcard:Family>
+	<vcard:Bday>1996.08</vcard:Bday>
+	<vcard:Country>Romania</vcard:Country>
+	<vcard:EMAIL>asadssadasd@yahoo.com</vcard:EMAIL>
+	<vcard:Region>Cluj</vcard:Region>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.persons.com/John2/">
+	<vcard:Given>John2</vcard:Given>
+	<vcard:Family>Snow2</vcard:Family>
+	<vcard:Bday>1996.07</vcard:Bday>
+	<vcard:Country>Bulgaria</vcard:Country>
+	<vcard:EMAIL>asadssadasd@yahoo.com</vcard:EMAIL>
+	<vcard:Region>Cluj</vcard:Region>
+	</rdf:Description>
+</rdf:RDF>
